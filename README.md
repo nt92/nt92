@@ -1,11 +1,7 @@
 ## Hey! I'm Nikhil Thota. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub nt92](https://img.shields.io/github/followers/nt92?label=follow&style=social)](https://github.com/nt92)
-[![Linkedin: Nikhil Thota](https://img.shields.io/badge/-Robin%20Thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-thota-ab2731104/)](https://www.linkedin.com/in/nikhil-thota-ab2731104/)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nt92&label=Profile%20views&color=0e75b6&style=flat" alt="nt92" />
-</p>
+[![Linkedin: Nikhil Thota](https://img.shields.io/badge/-nt92-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-thota-ab2731104/)](https://www.linkedin.com/in/nikhil-thota-ab2731104/)
 
 ## 📈 Github Stats
 
