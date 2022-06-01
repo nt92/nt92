@@ -1,4 +1,4 @@
-# Hey! I'm Nikhil. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+# Hey! I'm Nikhil.
 
 [![GitHub nt92](https://img.shields.io/github/followers/nt92?label=follow&style=social)](https://github.com/nt92)
 [![Linkedin: Nikhil Thota](https://img.shields.io/badge/-nt92-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-thota-ab2731104/)](https://www.linkedin.com/in/nikhil-thota-ab2731104/)
