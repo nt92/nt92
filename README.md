@@ -5,7 +5,7 @@
 
 ## 📈 Github Stats
 
-<img alt="nt92's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nt92&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" />
+<!-- <img alt="nt92's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nt92&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /> -->
 
 <img alt="nt92's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nt92&theme=prussian" />
 
