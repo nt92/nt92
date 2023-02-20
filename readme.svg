@@ -52,6 +52,13 @@
           transform-origin: 70% 70%;
         }
 
+        .page_blurb {
+            text-align: left;
+            padding-left: 4px;
+            margin: 30px auto 30px auto;
+            max-width: 500px;
+        }
+
         @media (prefers-color-scheme: light) {
           .container {
             --color-main: #F15BB5;
@@ -73,8 +80,21 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikhil <div class="hi">👋🏽</div></h1>
-      </div>
-    </div>
+        <h1>Hey, I'm Nikhil! <div class="hi">👋🏽</div></h1>
+        <div>
+            <div class="page_blurb">
+            <p>📍 I'm in San Francisco at Genesis (co-living house)</p>
+            <p>️⚡️ As of February 2023, I'm purposefully unemployed and am currently working on & exploring:</p>
+            <ul>
+                <li>👀 Hacking on ideas combining artificial intelligence & personal knowledge management</li>
+                <li>🧠 Improving my brain, body, and spirit to live a better existence</li>
+            </ul>
+            <p>🧪 In the past, I've been a Kleiner Perkins fellow,
+                built safety products on Facebook Marketplace,
+                architected encrypted messaging systems at WhatsApp, interned at Indiegogo and
+                Drawbridge (acq. by LinkedIn),
+                and went to school at UF</p>
+            </div>
+        </div>
   </foreignObject>
 </svg>
